@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:Safeeq Fazil A
-### Register Number: 212222240086
+### Name: PRAVIN RAJ A
+### Register Number: 212222240079
 
 ![image](https://github.com/Safeeq-Fazil/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118680361/fb253332-08b9-4200-a518-36ab5115a525)
 
